@@ -1,0 +1,4 @@
+#ifndef APP_ERROR_HTTP_H
+#define APP_ERROR_HTTP_H
+
+#endif // APP_ERROR_HTTP
